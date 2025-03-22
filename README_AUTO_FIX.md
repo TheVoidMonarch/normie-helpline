@@ -1,4 +1,4 @@
-# Norminette Auto-Fix
+# Normie Helpline
 
 This is an extension to the 42 School Norminette that automatically fixes common formatting errors.
 
